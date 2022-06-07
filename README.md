@@ -11,3 +11,4 @@
 ### [6월2일 알고리즘 연습](https://eigen.tistory.com/34?category=1064467)
 ### [6월5일 알고리즘 연습](https://eigen.tistory.com/36)
 ### [6월6일 알고리즘 연습](https://eigen.tistory.com/37)
+### [6월7일 알고리즘 연습](https://eigen.tistory.com/38)
