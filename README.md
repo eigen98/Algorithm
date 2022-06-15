@@ -8,7 +8,7 @@
 ### [5월23일 알고리즘 연습](https://eigen.tistory.com/24?category=1064467)
 ### [5월25일 알고리즘 연습](https://eigen.tistory.com/27?category=1064467)
 ### [5월31일 알고리즘 연습](https://eigen.tistory.com/32?category=1064467)
-
+### [5월29일 알고리즘 연습](https://eigen.tistory.com/30?category=1064467)
 
 
 ## 프로그래머스LEVEL2
